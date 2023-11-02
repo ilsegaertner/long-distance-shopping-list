@@ -5,6 +5,19 @@ body {
   margin: 0 auto;
 }
 
+.feliz {
+  text-align: center;
+  padding: 20px;
+  margin: 98px;
+  font-size: 32px;
+  color: #38201c;
+  font-family: ui-rounded;
+}
+
+.us {
+  border-radius: 300px;
+}
+
 .happy {
   display: flex;
   flex-direction: column;
